@@ -22,4 +22,5 @@ export const language = [
 
 export const POSTER_IMG_URL ="https://image.tmdb.org/t/p/w200/";
 
-export const OpenApiKey = "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";
+export const OpenApiKey = "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";
+
